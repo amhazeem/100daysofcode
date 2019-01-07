@@ -1,0 +1,9 @@
+Author: Animashaun Abdul-Azeem
+Project Interpreter : Python 3.7.2
+
+To initialize the project
+1. Create a python environment using python -m venv
+2. Activate the environment
+3. Then do a pip install requirements.txt
+4. Run teach setup as required
+
